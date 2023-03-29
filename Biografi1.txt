@@ -1,0 +1,3 @@
+NAMA    : Ahmad Dhani
+NIM     : 202111004
+JURUSAN : Informatika
